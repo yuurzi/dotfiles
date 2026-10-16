@@ -1,4 +1,4 @@
-# stdrice's Linux dotfiles
+# yuurxi's Linux dotfiles
 
 ![1](screenshot.png)
 ![2](screenshot2.png)
@@ -21,7 +21,7 @@
 
 2. Clone this repo
 ```
-git clone https://github.com/stdrice/dotfiles
+git clone https://github.com/yuurxi/dotfiles
 ```
 3. Backup all your files
 4. Copy all files in `dotfiles` and paste to your `$HOME` folder
