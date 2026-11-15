@@ -7,7 +7,6 @@
     "workbench.tips.enabled": false,
     "breadcrumbs.enabled": false,
     "window.commandCenter": false,
-    "window.menuBarVisibility": "compact",
     "workbench.layoutControl.enabled": false,
     "workbench.browser.showInTitleBar": false,
     "workbench.activityBar.location": "hidden",
@@ -23,5 +22,8 @@
     "workbench.preferredDarkColorTheme": "Visual Studio Dark",
     "vim.useCtrlKeys": false,
     "security.workspace.trust.enabled": false,
-    "editor.glyphMargin": false
+    "editor.glyphMargin": false,
+    "window.menuBarVisibility": "hidden",
+    "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}",
+    "window.titleBarStyle": "native"
 }
